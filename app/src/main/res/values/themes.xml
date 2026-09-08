@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SlowKick" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#7E57C2</item>
+        <item name="colorPrimaryVariant">#9575CD</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+</resources>

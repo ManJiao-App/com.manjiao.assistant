@@ -1,0 +1,31 @@
+# Build
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Temp / logs
+r1*.txt
+r2*.txt
+build_tmp_setpref.sh
+scan_tmp.ps1
+stuck_now.png
+apkcheck/
+
+# Native build
+.cxx/
+app/.cxx/
+
+# Misc
+*.log

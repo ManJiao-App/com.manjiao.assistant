@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ManJiao</string>
+    <string name="module_desc">ManJiao：无水印下载 / 沉浸式 / 内容过滤</string>
+
+    <!-- 主菜单 -->
+    <string name="menu_title">ManJiao</string>
+    <string name="menu_download">下载</string>
+    <string name="menu_immersive">沉浸式页面</string>
+    <string name="menu_filter">内容过滤</string>
+    <string name="menu_settings">模块设置</string>
+
+    <string name="dl_video">视频下载（无水印高清）</string>
+    <string name="dl_audio">音频下载</string>
+
+    <string name="imm_one_click">一键沉浸</string>
+    <string name="imm_select_hide">选择隐藏</string>
+
+    <string name="flt_ads">广告</string>
+    <string name="flt_image">图文</string>
+    <string name="flt_live">直播</string>
+    <string name="flt_ai">AI内容</string>
+    <string name="flt_ec">电商内容</string>
+    <string name="flt_like">按点赞数过滤</string>
+
+    <string name="pref_general">通用</string>
+    <string name="pref_anti">绕过环境检测</string>
+    <string name="pref_dl_path">下载目录</string>
+    <string name="pref_like_threshold">点赞数阈值（低于则过滤）</string>
+</resources>

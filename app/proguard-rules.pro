@@ -1,0 +1,2 @@
+﻿-keep class com.manjiao.assistant.** { *; }
+-keep class de.robv.android.xposed.** { *; }

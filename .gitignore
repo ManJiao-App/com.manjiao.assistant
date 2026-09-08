@@ -15,12 +15,12 @@ local.properties
 *.iml
 .vscode/
 
-# Temp / logs
+# Temp / logs / screenshots
 r1*.txt
 r2*.txt
 build_tmp_setpref.sh
 scan_tmp.ps1
-stuck_now.png
+*.png
 apkcheck/
 
 # Native build

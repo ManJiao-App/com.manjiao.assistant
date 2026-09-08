@@ -22,7 +22,7 @@
 gradlew assembleDebug
 ```
 
-需 Android SDK + NDK 26+，输出 APK 在 `app/build/outputs/apk/debug/`。
+需 Android SDK + NDK 26+。
 
 ## 使用
 

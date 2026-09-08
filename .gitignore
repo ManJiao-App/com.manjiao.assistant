@@ -21,7 +21,10 @@ r2*.txt
 build_tmp_setpref.sh
 scan_tmp.ps1
 *.png
+*.jpg
+*.zip
 apkcheck/
+ManJiao-android-icons.zip
 
 # Native build
 .cxx/
